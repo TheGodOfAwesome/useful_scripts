@@ -1,5 +1,5 @@
 # useful_scripts
-A collection of use bash shell scripts
+A collection of useful bash shell scripts
 
 If access is denied remember to chmod 755 script_name.sh
 
